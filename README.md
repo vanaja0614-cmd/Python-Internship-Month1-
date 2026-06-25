@@ -1,7 +1,5 @@
 # Python-Internship-Month1
 
-# Python Internship - Month 1
-
 ## Overview
 
 This repository contains the work completed during Month 1 of the Python Internship. The tasks focus on learning Python fundamentals, data structures, data analysis, and data visualization through practical projects.
